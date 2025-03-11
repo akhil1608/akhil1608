@@ -23,12 +23,6 @@
 
 ---
 
-### 💬 Connect With Me  
-- ✉️ Email: [blueovercoat@outlook.com](mailto:blueovercoat@outlook.com)  
-- 🌐 Portfolio: [Coming soon]
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhil1608&label=Profile%20Views&color=blue&style=plastic" />
 </p>
