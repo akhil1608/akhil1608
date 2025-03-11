@@ -38,12 +38,12 @@ Here are some cool things I’ve been building:
 ### 🔥 Fun Stuff  
 **📊 Most Used Languages**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil1608&layout=compact&theme=tokyonight" />
 </p>
 
 **🏆 GitHub Trophies**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhil&theme=onedark&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akhil1608&theme=onedark&no-frame=true&column=4" />
 </p>
 
 ---
