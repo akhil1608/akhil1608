@@ -10,7 +10,6 @@
 ### 🧑‍💻 About Me 
 - Enthusiastic technologist with a deep interest in artificial intelligence, automation, and digital innovation, constantly exploring emerging technologies to build impactful solutions.
 - Currently developing [ModerateX](https://github.com/akhil1608/ModerateX), an AI-powered content moderation tool designed to identify and mitigate bait-driven content on social platforms, aiming to foster healthier online interactions.
-- Actively working on refining digital presence strategies while pursuing creative technical projects that balance practicality and innovation.
 - Dedicated to continuous learning, leveraging technical expertise to explore new ideas, challenge conventional approaches, and contribute to meaningful advancements in technology.
 - Exploring data-driven approaches in sports analytics, combining technical skills with strategic insights to uncover performance trends and improve decision-making.
 
