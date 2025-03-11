@@ -1,17 +1,18 @@
 <h1 align="center">
-  Hey there, I'm Akhil! 👋
+	Hey there, I'm Akhil! 👋
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Building+ModerateX;" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Building+ModerateX;" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me 
-- Techie exploring AI & automation  
-- Currently working on: [ModerateX](https://github.com/akhil/ModerateX)  
-- On a mission to disappear socially while building cool stuff  
-- Other interests: Football analytics, Pokémon breeding hacks, Mac automation  
+- Enthusiastic technologist with a deep interest in artificial intelligence, automation, and digital innovation, constantly exploring emerging technologies to build impactful solutions.
+- Currently developing [ModerateX](https://github.com/akhil1608/ModerateX), an AI-powered content moderation tool designed to identify and mitigate bait-driven content on social platforms, aiming to foster healthier online interactions.
+- Actively working on refining digital presence strategies while pursuing creative technical projects that balance practicality and innovation.
+- Dedicated to continuous learning, leveraging technical expertise to explore new ideas, challenge conventional approaches, and contribute to meaningful advancements in technology.
+- Exploring data-driven approaches in sports analytics, combining technical skills with strategic insights to uncover performance trends and improve decision-making.
 
 ---
 
@@ -24,5 +25,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhil1608&label=Profile%20Views&color=blue&style=plastic" />
+	<img src="https://komarev.com/ghpvc/?username=akhil1608&label=Profile%20Views&color=blue&style=plastic" />
 </p>
