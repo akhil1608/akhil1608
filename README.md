@@ -25,12 +25,12 @@ Here are some cool things I’ve been building:
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhil&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhil1608&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil1608&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhil&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhil1608&theme=tokyo-night" />
 </p>
 
 ---
